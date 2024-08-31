@@ -1,1 +1,1 @@
-[# rsschool-cv](https://github.com/RomanUSTx/rsschool-cv/blob/gh-pages/cv.md)
+[add link to project](https://github.com/RomanUSTx/rsschool-cv/blob/gh-pages/cv.md) 
