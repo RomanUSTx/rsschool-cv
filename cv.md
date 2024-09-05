@@ -4,6 +4,7 @@
 **Телефон:** +7 (123)-123-33-33  
 **HH.RU:** [Roman Igorevich](https://volgograd.hh.ru/resume/170d07c5ff053d60a30039ed1f723458795153)  
 **GitHub:** [RomanUSTx](https://github.com/RomanUSTx)  
+![Текст с описанием картинки](/images/1.jpg)
 
 ---
 
